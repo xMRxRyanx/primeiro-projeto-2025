@@ -12,6 +12,7 @@ img{
 
 .Primeirasecao{
     display: flex;
+    justify-content: center;
     width: 1000px;
     height: 500px;
     background-color: rgb(104, 104, 104);
