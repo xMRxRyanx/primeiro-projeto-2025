@@ -13,5 +13,10 @@ img{
 .Primeirasecao{
     width: 1000px;
     height: 500px;
-    background-color: rgb(43, 186, 226);
+    background-color: rgb(104, 104, 104);
+}
+.divisao{
+    width: 1000px;
+    height: 100px;
+    background-color: black;
 }
